@@ -1,7 +1,5 @@
 # Let's play bingo percolation! 
 
-It's not coffee, but still percolates. It's Bingo!
-
 _Disclaimer:_ what you're about to read might be totally trivial and analytically
 solvable after a tiny bit of combinatorics/probabilities gymnastics. 
 If that already sounds boring, imagine actually going through it with pen and 
