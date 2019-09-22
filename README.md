@@ -6,6 +6,7 @@ _Disclaimer:_ what you're about to read might be totally trivial and analyticall
 solvable after a tiny bit of combinatorics/probabilities gymnastics. 
 If that already sounds boring, imagine actually going through it with pen and 
 paper. Let's see what Python can do for us.
+
 _Disclaimer 2:_ this is not about coffee. I'm sorry too.
 
 So one day we where playing champagne-bingo because.. why not?
