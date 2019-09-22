@@ -11,7 +11,7 @@ _Disclaimer 2:_ this is not about coffee. I'm sorry too.
 So one day we where playing champagne-bingo because.. why not?
 It's a pretty straight forward game. 
 If you know [bingo](https://en.wikipedia.org/wiki/Bingo_(U.S.)), it's the same,
- but! everyone has a glas of champagne and is supposed to take a sip if the 
+ but! everyone has a glass of champagne and is supposed to take a sip if the 
  drawn number is not on his/her ticket. Easy.
 You can do the math for yourself about the number of times you end up having
 to drink..but that's not the point here.
@@ -72,17 +72,21 @@ So after a player gets a line, she will afterwards always count as simply having
 at least one line, independently from the fact that she can get a different line 
 in the future.)
 
-On to the code!
-
-We need
--------
-    - tickets
-    - number drawer
-    - ticket marker
-    - ticket checker 
-    - game runner
+### On to the code!
+#### Requirements
+- `numpy`
+- `matplotlib`
+- `seaborn`
 
 ```python
+# We need
+# - tickets
+# - number drawer
+# - ticket marker
+# - ticket checker 
+# - game runner
+
+
 def make_tickets(n_tickets=10):
     '''
     Return 3D array - stack of n_tickets.
@@ -157,4 +161,5 @@ average trace for each case.
 
 ![png](https://github.com/fabridamicelli/bingo_percolation/blob/master/images/lines_and_bingos.png)
 
-Lo and behold, the curves kind of agree with the initial intuition :)
+### Lo and behold, the curves kind of agree with the initial intuition :)
+
