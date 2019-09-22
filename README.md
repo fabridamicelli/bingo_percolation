@@ -10,7 +10,7 @@ paper. Let's see what Python can do for us.
 _Disclaimer 2:_ this is not about coffee. I'm sorry too.
 
 
-### The story
+## The story
 So one day we where playing champagne-bingo because.. why not?
 It's a pretty straight forward game. 
 If you know [bingo](https://en.wikipedia.org/wiki/Bingo_(U.S.)), it's the same,
@@ -19,8 +19,7 @@ If you know [bingo](https://en.wikipedia.org/wiki/Bingo_(U.S.)), it's the same,
 You can do the math for yourself about the number of times you end up having
 to drink..but that's not the point here.
 
-Now the percolation part. 
-
+### Percolation
 [Percolation](https://en.wikipedia.org/wiki/Percolation_theory) refers to
  a whole world of interesting stuff, ranging from coffee brewing to epidemics 
  spreading and everything in between. 
@@ -38,7 +37,8 @@ Percolation theory helps us predicting what is the minimum amount of friends per
  hops in the network.
 Pretty useful, right? 
 
-Back to the game, it turns out we _did not stop playing_ when we where
+### Back to the game 
+It turns out we _did not stop playing_ when we where
 supposed to, i.e., whenever someone won (got bingo) just for the sake of.. 
 you know.. just having fun a bit longer.
 
