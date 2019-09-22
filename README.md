@@ -9,6 +9,8 @@ paper. Let's see what Python can do for us.
 
 _Disclaimer 2:_ this is not about coffee. I'm sorry too.
 
+
+### The story
 So one day we where playing champagne-bingo because.. why not?
 It's a pretty straight forward game. 
 If you know [bingo](https://en.wikipedia.org/wiki/Bingo_(U.S.)), it's the same,
@@ -52,7 +54,7 @@ Yes, like a percolation. To be more precise, a bingo-percolation.
 
 So let's see if that is actually the case.
 
-On to the game!
+### On to the game!
 
 Bingo 
 -----
