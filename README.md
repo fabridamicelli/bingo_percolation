@@ -54,7 +54,6 @@ Yes, like a percolation. To be more precise, a bingo-percolation.
 
 So let's see if that is actually the case.
 
-### On to the game!
 
 Bingo 
 -----
