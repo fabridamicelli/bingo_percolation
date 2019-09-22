@@ -161,5 +161,7 @@ average trace for each case.
 
 ![png](https://github.com/fabridamicelli/bingo_percolation/blob/master/images/lines_and_bingos.png)
 
+In fact, we see a sharp transition both in the proportion of players with at least one line as well as in the proportion of players with bingo.
+
 ### Lo and behold, the curves kind of agree with the initial intuition :)
 
