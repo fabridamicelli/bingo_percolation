@@ -1,9 +1,13 @@
 # Let's play bingo percolation! 
 
-_Disclaimer:_ what you're about to read might be totally trivial and analytically
-solvable after a tiny bit of combinatorics/probabilities gymnastics. 
+_Disclaimer:_ what you're about to read might be somehow trivial and analytically
+solvable after a bit of combinatorics-probabilities gymnastics. 
 If that already sounds boring, imagine actually going through it with pen and 
 paper. Let's see what Python can do for us.
+
+_edit:_ I just learned about [this post](https://koaning.io/posts/bingo-ball-pit/). 
+Vincent approaches it from a complementary, analytical perspective, so check it out.
+
 
 _Disclaimer 2:_ this is not about coffee. I'm sorry too.
 
@@ -44,11 +48,12 @@ And my observation was that, after a long period of people doing little more
 than drinking number after number (pretty hard life), a rather abrupt transition 
 seemed to occur and folks were getting (first) lines (and then) bingo more and 
 more often.
-In other words, as time passed (numbers got drawn), the higher was the
- probability that someone would jump up, scream out loud "line" or "bingo" 
- while performing a nice [hula dance](https://www.youtube.com/watch?v=r3JAM1nuNAk).
+In other words, as time passed (numbers got drawn), the probability that someone would 
+jump up, scream out loud "line" or "bingo" while performing a 
+nice [hula dance](https://www.youtube.com/watch?v=r3JAM1nuNAk) seemed to be higher and
+higher.
 Yes, you got it, a non-linear transition. 
-Yes, like a percolation. To be more precise, a bingo-percolation.
+Yes, like a percolation. To be more precise, a bingo-percolation!
 
 So let's see if that is actually the case.
 
